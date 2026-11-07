@@ -1,3 +1,6 @@
+Nama: Ade Kurniawan
+NIM: H1D025041
+Tema: Game
 Program console Java untuk simulasi merawat hewan peliharaan virtual (kucing atau anjing).
 
 ## Fitur
@@ -39,3 +42,10 @@ Buka terminal pada folder yang berisi seluruh file `.java`, lalu jalankan:
 - Lihat status untuk memeriksa nilai atribut.
 
 Nilai hunger menunjukkan tingkat kelaparan: semakin tinggi nilainya, semakin lapar hewan.
+
+## Screenshot Percobaan Saat Run
+![Screenshot 1](screenshot/Screenshot%202026-11-07%20191256.png)
+![Screenshot 2](screenshot/Screenshot%202026-11-07%20191455.png)
+![Screenshot 3](screenshot/Screenshot%202026-11-07%20191509.png)
+![Screenshot 4](screenshot/Screenshot%202026-11-07%20191546.png)
+![Screenshot 5](screenshot/Screenshot%202026-11-07%20191557.png)
